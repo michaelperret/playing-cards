@@ -1,0 +1,1 @@
+[ ![Codeship Status for michaelperret/playing-cards](https://codeship.io/projects/f63cdd50-ffd8-0131-7895-0aeb6fd0d794/status)](https://codeship.io/projects/29821)
